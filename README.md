@@ -9,6 +9,6 @@ It sets up both:
 ---
 
 ## Blog Article
-[Server-side GTM Domain Mapping with Load Balancer](https://selnekovic.com/manual-server-side-gtm-deployment-on-google-cloud-run-in-less-than-30-minutes)  
+[Server-side GTM Domain Mapping with Load Balancer](https://selnekovic.com/blog/sgtm-deployment-google-cloud-run/)  
 
 
