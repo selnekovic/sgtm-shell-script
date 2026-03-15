@@ -42,4 +42,4 @@ The script prompts for:
 
 - **Author:** [Julius Selnekovic](https://selnekovic.com)  
 - **License:** [MIT](LICENSE)  
-- **Article:** [Server-side GTM Domain Mapping with Load Balancer](https://selnekovic.com/blog/sgtm-deployment-google-cloud-run/)
+- **Article:** [Manual Server-side GTM Deployment On Google Cloud](https://selnekovic.com/blog/sgtm-deployment-google-cloud-run/)
